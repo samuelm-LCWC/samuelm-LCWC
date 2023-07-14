@@ -10,7 +10,7 @@
   </ul>
   <p>I also teach accross a variety of courses, which include:</p>
   <ul>
-    <li>Gateway Level 2 Diploma in Digital Technology</li>
+    <li>Gateway Level 2 Diploma in Digital and IT Skills</li>
     <li>Gateway Levle 3 Diploma in Digital Technology</li>
     <li>T-Level Digital Support Services</li>
   </ul>
